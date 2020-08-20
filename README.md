@@ -1,21 +1,14 @@
-# ninja-chat
+# ninja-smoothies
 
 > A Vue.js project
 
-## Build Setup
+## Tech -
 
-``` bash
-# install dependencies
-npm install
+* Vue.js
+* Firebase
 
-# serve with hot reload at localhost:8080
-npm run dev
+### Deployed project 
+https://ninja-chat-e8bd4.web.app
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
